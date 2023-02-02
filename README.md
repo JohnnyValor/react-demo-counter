@@ -9,5 +9,12 @@ Features:
     Reset the counter to its original value
     Customize the counter value at initialization
     
+Built with:
+    
+    Angular
+    HTML
+    CSS
+    TypeScript
+    
 
 Live demo at: https://react-count-app.stackblitz.io/
