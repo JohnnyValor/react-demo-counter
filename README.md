@@ -1,6 +1,6 @@
 React Counter App
 
-A simple and intuitive counter application built with React.
+A simple and intuitive counter application.
 
 Features:
 
