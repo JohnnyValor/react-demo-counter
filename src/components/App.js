@@ -21,6 +21,7 @@ class App extends React.Component {
   }
 }
 
+// maps dispatch actions to props, takes in dispatch function from redux store, returns object with four functions below.
 function mapDispatchToProps(dispatch) {
   return {
     onIncrement: () => dispatch(increment()),
@@ -29,6 +30,9 @@ function mapDispatchToProps(dispatch) {
     onAnything: (number) => dispatch(anything(number))
   };
 }
+
+// maps state values from the redux store to props. takes in the global state object from the store as argument.
+// returns object with three values below
 function mapStateToProps(state) {
     return {
       count: state.count,
