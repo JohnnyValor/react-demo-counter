@@ -9,4 +9,5 @@ Features:
     Reset the counter to its original value
     Customize the counter value at initialization
     
-    Live demo at: https://react-count-app.stackblitz.io/
+
+Live demo at: https://react-count-app.stackblitz.io/
