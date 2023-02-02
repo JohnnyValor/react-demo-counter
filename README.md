@@ -11,10 +11,10 @@ Features:
     
 Built with:
     
-    Angular
+    React
     HTML
     CSS
-    TypeScript
+    Javascript
     
 
 Live demo at: https://react-count-app.stackblitz.io/
