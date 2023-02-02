@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+// displays a counter and its increment, decrement and reset buttons.
 const Counter = ({ count, onDecrement, onIncrement, clicks, addAmount, onReset, onAnything }) => {
   return (
     <div>
@@ -18,8 +20,3 @@ const Counter = ({ count, onDecrement, onIncrement, clicks, addAmount, onReset, 
 
 
 export default Counter;
-
-// button for reset
-// <button onClick={this.reset.bind(this)}>Change Count Number</button>
-// button attempt 2
-// <button onClick={event => setState({ count: state.count + state.addAmount})}>Change Count Number</button>
