@@ -1,9 +1,11 @@
+// set initial state
 const initialState = {
   count: 0,
   clicks: 0,
   addAmount: 0
 };
 
+// switch statement that handles four possible actions below. If none match, return original state.
 function counterReducer(state = initialState, action) {
   switch (action.type) {
     case 'INCREMENT':
