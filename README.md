@@ -36,6 +36,8 @@ Concepts learned:
  After learning these concepts, I decided to create a counter application and was challenged to create one with the following:
  
         Increment and decrement buttons, with counter number showing.
-        Add functionality counting the number of clicks made to BOTH increment and decrement buttons, with the number showing.
-        Functionality that allows for an exact custom number to be entered, which also reset the clicks counter.
+        Add functionality counting the number of clicks made to BOTH increment and decrement buttons, 
+        with the number showing.
+        Functionality that allows for an exact custom number to be entered, which also reset the clicks 
+        counter.
         
